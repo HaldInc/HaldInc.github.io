@@ -6,7 +6,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### TEST
 
-```markdown  this is "REMed out"
 
 # Header 1
 ## Header 2
