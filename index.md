@@ -1,27 +1,11 @@
-## Welcome Hald Inc
+## Welcome "Hald Inc" - Jacob Hald's private page
 
-You can use the [editor on GitHub](https://github.com/HaldInc/HaldInc.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+First of all, welcome to my little World on GitHub. This page serves mainly as my personal project build log, but feel free to reach out if you have any questions or comments.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My Covid-19 lock-down project:  Building a motion and motor controller for a 5-axis industrial robot. 
 
-### TEST
+Why?  Well, why not?  I had a CRS A255 robot arm for some years and always wanted more flexibility in the controller and it’s a good challenge to design everything from scratch.
 
 
-# Header 1
-## Header 2
-### Header 3
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HaldInc/HaldInc.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
