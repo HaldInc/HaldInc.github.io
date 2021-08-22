@@ -4,6 +4,12 @@
 <p>My Covid-19 lock-down project:&nbsp; Building a motion and motor controller for a 5-axis industrial robot.</p>
 <p>Why?&nbsp; Well, why not?&nbsp; I had a CRS A255 robot arm for some years and always wanted more flexibility in the controller and it&rsquo;s a good challenge to design everything from scratch.</p>
 <p><strong>&nbsp;</strong></p>
+
+<table  >
+<td style="width: 50%;"><img width="283" height="294" src="Git%20hub%20project%20text_files/image002.jpg"></img></td>
+<td style="width: 50%;"><img width="385" height="289" src="Git%20hub%20project%20text_files/image004.jpg"></img></td>
+</table>
+
 <table style="height: 88px; width: 100%; border-collapse: collapse; float: left;" border="1">
 <tbody>
 <tr style="height: 16px; background-color: lightgray;">
