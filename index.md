@@ -803,13 +803,13 @@ reach out if you have any questions or comments.</span></p>
 <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US>My Covid-19 lock-down project:<span
-style='mso-spacerun:yes'>  </span>Building a motion and motor controller for a 5-axis
+style='mso-spacerun:yes'>Â  </span>Building a motion and motor controller for a 5-axis
 industrial robot. </span></p>
 
-<p class=MsoNormal><span lang=EN-US>Why?<span style='mso-spacerun:yes'> 
-</span>Well, why not?<span style='mso-spacerun:yes'>  </span>I had a CRS A255
+<p class=MsoNormal><span lang=EN-US>Why?<span style='mso-spacerun:yes'>Â 
+</span>Well, why not?<span style='mso-spacerun:yes'>Â  </span>I had a CRS A255
 robot arm for some years and always wanted more flexibility in the controller
-and it’s a good challenge to design everything from scratch.</span></p>
+and itÂ’s a good challenge to design everything from scratch.</span></p>
 
 <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
 
@@ -844,12 +844,12 @@ and it’s a good challenge to design everything from scratch.</span></p>
    <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
    <o:lock v:ext="edit" aspectratio="t"/>
   </v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_i1026" type="#_x0000_t75"
-   alt="Machine generated alternative text:&#10;TOOL FLÆNGE AT &#10;MID-POINT 0F &#10;TRAVEL (ff) &#10;The A255 arm has five axes of motion (joints): 1 (waist), 2 (shoulder), &#10;3 (elbow), 4 (wrist pitch), and 5 (tool roll). "
+   alt="Machine generated alternative text:&#10;TOOL FLÃ†NGE AT &#10;MID-POINT 0F &#10;TRAVEL (ff) &#10;The A255 arm has five axes of motion (joints): 1 (waist), 2 (shoulder), &#10;3 (elbow), 4 (wrist pitch), and 5 (tool roll). "
    style='width:212.5pt;height:220.5pt;visibility:visible;mso-wrap-style:square'>
    <v:imagedata src="Git%20hub%20project%20text_files/image001.png" o:title=" 1 (waist), 2 (shoulder), &#10;3 (elbow), 4 (wrist pitch), and 5 (tool roll)"/>
   </v:shape><![endif]--><![if !vml]><img width=283 height=294
   src="Git%20hub%20project%20text_files/image002.jpg"
-  alt="Machine generated alternative text:&#10;TOOL FLÆNGE AT &#10;MID-POINT 0F &#10;TRAVEL (ff) &#10;The A255 arm has five axes of motion (joints): 1 (waist), 2 (shoulder), &#10;3 (elbow), 4 (wrist pitch), and 5 (tool roll). "
+  alt="Machine generated alternative text:&#10;TOOL FLÃ†NGE AT &#10;MID-POINT 0F &#10;TRAVEL (ff) &#10;The A255 arm has five axes of motion (joints): 1 (waist), 2 (shoulder), &#10;3 (elbow), 4 (wrist pitch), and 5 (tool roll). "
   v:shapes="Picture_x0020_1"><![endif]></span></p>
   </td>
   <td width=417 valign=top style='width:312.9pt;border:solid windowtext 1.0pt;
@@ -899,9 +899,9 @@ and it’s a good challenge to design everything from scratch.</span></p>
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=EN-US>It’s Christmas! …and Covid! Can’t travel to visit the family, so this
+  lang=EN-US>ItÂ’s Christmas! Â…and Covid! CanÂ’t travel to visit the family, so this
   is the perfect excuse to start a new project! <span
-  style='mso-spacerun:yes'> </span></span></p>
+  style='mso-spacerun:yes'>Â </span></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2'>
