@@ -1,5 +1,5 @@
 <h1 style="color: #5e9ca0;">Jacob Hald - Project build log&nbsp;</h1>
-<p>First of all, welcome to my little World on GitHub. This page serves mainly as my personal project build log, but feel free to reach out if you have any questions or comments.
+First of all, welcome to my little World on GitHub. This page serves mainly as my personal project build log, but feel free to reach out if you have any questions or comments.
   
   
   ## Listed projects:
