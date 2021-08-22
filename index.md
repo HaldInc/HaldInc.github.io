@@ -6,3 +6,17 @@
   
   * [RS-232 monitor switch](https://github.com/HaldInc/RS-232-monitor/blob/main/index.md)
   * [A255 controller - 5-axis articulated industrial robot arm controller](https://github.com/HaldInc/CRS-A255-controller/blob/main/index.md)
+
+  
+  
+  
+  ```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+  
+  
