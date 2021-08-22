@@ -5,7 +5,7 @@ First of all, welcome to my little World on GitHub. This page serves mainly as m
   ## Listed projects:
   
   * [RS-232 monitor switch](https://haldinc.github.io/RS-232-monitor/)
-  * [A255 controller - 5-axis articulated industrial robot arm controller](https://github.com/HaldInc/CRS-A255-controller/blob/main/index.md)
+  * [A255 controller - 5-axis articulated industrial robot arm controller](https://haldinc.github.io/CRS-A255-controller/)
 
   
 
