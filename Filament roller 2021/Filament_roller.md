@@ -6,19 +6,24 @@ I know - you can buy a finished solution for this, but seriously - what is the f
 
 All CAD design and rendering is done in Autodesk Fusion 360.
 
-# Rendering of the concept:
-<img src="Render 1.jpg" alt="drawing" width="100%"/>
+### Rendering of the concept:
+<img src="Render 1.jpg" alt="drawing" width="75%"/>
 
-# Section analysis:
-<img src="section analysis.jpg" alt="drawing" width="100%"/>
+### Section analysis:
+<img src="section analysis.jpg" alt="drawing" width="50%"/>
 
-# 3D printing parts:
-All the black parts are 3D printed in matte black filament. The 608 ball bearings are press-fitted. The tube is cut from PVC.
-<img src="Parts.jpg" alt="drawing" width="100%"/>
+### 3D printing parts:
+All the black parts are 3D printed in matte black filament. The 608 ball bearings are press-fitted. The tube is cut from PVC.  
 
-<img src="Real phot0.jpg" alt="drawing" width="100%"/>
+<img src="Parts.jpg" alt="drawing" width="50%"/>
 
-<img src="In use.jpg" alt="drawing" width="100%"/>
+### Real photo of the final result:
+<img src="Real phote.jpg" alt="drawing" width="50%"/>
+
+
+### In use:
+Simple and easy solution.
+<img src="In use.jpg" alt="drawing" width="50%"/>
 
 
 
