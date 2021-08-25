@@ -6,6 +6,12 @@ I know - you can buy a finished solution for this, but seriously - what is the f
 
 All CAD design and rendering is done in Autodesk Fusion 360.
 
+
+![3D file](Filament%20roller%202021.stl)
+
+
+
+
 ### Rendering of the concept:
 <img src="Render 1.jpg" alt="drawing" width="75%"/>
 
