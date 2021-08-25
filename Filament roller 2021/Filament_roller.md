@@ -1,7 +1,6 @@
 # Project:  Filament spool roller - June 2021
 
-![](/patrs.jpg)
-
+<img src="Parts.jpg" alt="drawing" width="50%" rotate=“45”/>
 
 
 
