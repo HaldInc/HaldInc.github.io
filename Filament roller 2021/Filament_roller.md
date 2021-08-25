@@ -12,8 +12,10 @@ All CAD design and rendering is done in Autodesk Fusion 360.
 ### Section analysis:
 <img src="section analysis.jpg" alt="drawing" width="50%"/>
 
-### 3D printing parts:
-All the black parts are 3D printed in matte black filament. The 608 ball bearings are press-fitted. The tube is cut from PVC.  
+### Parts:
+All the black parts are 3D printed in matte black filament. The 608 ball bearings are press-fitted.  
+The tube is cut from PVC.  
+Ø8mm aluminium rod.   
 
 <img src="Parts.jpg" alt="drawing" width="50%"/>
 
@@ -22,7 +24,7 @@ All the black parts are 3D printed in matte black filament. The 608 ball bearing
 
 
 ### In use:
-Simple and easy solution.
+Simple and easy solution.  
 <img src="In use.jpg" alt="drawing" width="50%"/>
 
 
