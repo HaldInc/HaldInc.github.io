@@ -22,16 +22,16 @@ img {
 
 <table>
   <tr>
-    <td>Text
-      <img src="InPrint.JPG" alt="drawing" width="50%"/>Text</td>
-    <td>Text
-      <img src="InPrint.JPG" alt="drawing" width="50%"/>Text</td>
+    <td>
+      <img src="InPrint.JPG" alt="drawing" width="50%"/> </td>
+    <td>
+      <img src="FreshFromPrint.JPG" alt="drawing" width="50%"/> </td>
   </tr>
   <tr>
-    <td>Text
-      <img src="InPrint.JPG" alt="drawing" width="50%"/>Text</td>
-    <td>Text
-      <img src="InPrint.JPG" alt="drawing" width="50%"/>Text</td>
+    <td>
+      <img src="FreshFromPrint2.JPG" alt="drawing" width="50%"/> </td>
+    <td>
+      <img src="Result1.JPG" alt="drawing" width="50%"/>  </td>
   </tr>
 </table>
 
