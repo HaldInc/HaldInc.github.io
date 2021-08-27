@@ -50,7 +50,8 @@ To create the base for the button and make it look like the one from the cartoon
 # Bug fixing:
 
 It fulfills the kid’s specifications, but I am not too happy as the two parts can get stuck if you push it down too much off-center.  
-<img src="GoodNBad.jpg" alt="drawing" width="50%"/>
+
+<img src="GoodNBad.jpg" alt="drawing" width="50%"/>  
 
 A bit of sanding fix it, but if I should ever redesign a large pushbutton, I would put the support closer to the edge. Not really a surprise, but another lesson learned. :)  
 
