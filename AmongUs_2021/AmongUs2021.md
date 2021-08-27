@@ -55,4 +55,7 @@ It fulfills the kid’s specifications, but I am not too happy as the two parts 
 
 A bit of sanding fix it, but if I should ever redesign a large pushbutton, I would put the support closer to the edge. Not really a surprise, but another lesson learned. :)  
 
+# Download 3D files:
 
+[Top part - STL ](https://github.com/HaldInc/HaldInc.github.io/blob/main/AmongUs_2021/EmergencyButtonBase.stl)  
+[Base part - STL ](https://github.com/HaldInc/HaldInc.github.io/blob/main/AmongUs_2021/EmergencyButtonBase.stl)
