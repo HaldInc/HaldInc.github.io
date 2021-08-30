@@ -4,7 +4,7 @@ First of all, welcome to my little World on GitHub. This page serves mainly as m
   Listed projects:
   
   * [RS-232 monitor switch - 2021](https://haldinc.github.io/RS-232-monitor/)
-  * [Filament spool roller - 2021](https://github.com/HaldInc/HaldInc.github.io/blob/main/Filament%20roller%202021/Filament_roller)
+  * [Filament spool roller - 2021](https://haldinc.github.io/Filament%20roller%202021/Filament_roller)
   * [Among Us - 3D printed projects with the kids. - 2021](https://haldinc.github.io/AmongUs_2021/AmongUs2021)
   * [A255 controller - 5-axis articulated industrial robot arm controller - 2021](https://haldinc.github.io/CRS-A255-controller/)   -  Ongoing project
 
