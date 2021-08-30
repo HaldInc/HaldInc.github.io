@@ -9,6 +9,9 @@ First of all, welcome to my little World on GitHub. This page serves mainly as m
   * [A255 controller - 5-axis articulated industrial robot arm controller - 2021](https://haldinc.github.io/CRS-A255-controller/)   -  Ongoing project
 
   
+ [Contact me on LinkedIn](www.linkedin.com/in/jacob-hald-b939933)
+  
+  
 
 **Disclaimer:** *Everything shared in the space is designed by me for my personal enjoyment in my spare time and is not linked to my professional life. If anyone should choose to replica a design or part of it, it is 100% at your own risk and I cannot take responsibility for the consequences of your decisions.*  
   
