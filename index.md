@@ -1,5 +1,5 @@
 # Jacob Hald - Projects
-First of all, welcome to my little World on GitHub. This page serves mainly as my personal project build log, but as some people have asked me in the past if I could share files and project info, I took the step and made it public. Feel free to reach out to me if you have any questions or comments.    
+First of all, welcome to my little World on GitHub. This page serves mainly as my personal project build log, but as some people have asked me in the past if I could share files and project info, I took the step and made a public page in 2021. Feel free to reach out to me if you have any questions or comments.    
         
   Listed projects:
   
