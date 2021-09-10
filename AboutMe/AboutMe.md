@@ -21,5 +21,16 @@ Please check out my [![](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://
 @@ text in purple (and bold)@@
 ```
 
+<html>
 
+<div class="text-white bg-blue mb-2">
+  .text-white on .bg-blue
+</div>
+  
+  <div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
+    
+  <p stlye="color:blue"> Test <p>
+       
+</html>
+  
 [Back to main](https://haldinc.github.io/)
