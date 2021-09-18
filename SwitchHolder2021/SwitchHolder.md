@@ -1,4 +1,4 @@
-# Switch holder - 2021
+# Nightlight switch holder - 2021
 
 Alex got a wall mounted nightlight over his bed, but he was concerned that the switch would scratch the wall if it was just hanging. ..and naturally, there is a 3D printed solution for this problem too :) So I designed this snap-on holder that fits on his bed and can hold the power switch.
 
