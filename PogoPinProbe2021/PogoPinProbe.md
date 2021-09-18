@@ -5,4 +5,14 @@ Yet another fast 3D printed project. For debugging an embedded design I am worki
 Material:  PLA    -  Print time: 15 min
 
 
-<img src="Drawing.png" alt="drawing" width="50%"/>
+<img src="Drawing.png" alt="drawing" width="100%"/>
+
+My rendering in Autodesk Fusion 360: 
+<img src="Render.png" alt="drawing" width="100%"/>
+
+The 3D printed version after mounting the pogo pin and soldering the wire.
+<img src="PogoPinProbe.PNG" alt="drawing" width="100%"/>
+
+Testing:
+<img src="Testing.PNG" alt="drawing" width="100%"/>
+
