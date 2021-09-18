@@ -5,3 +5,4 @@ Yet another fast 3D printed project. For debugging an embedded design I am worki
 Material:  PLA    -  Print time: 15 min
 
 
+<img src="Drawing.png" alt="drawing" width="50%"/>
