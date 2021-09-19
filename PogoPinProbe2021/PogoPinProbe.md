@@ -17,6 +17,6 @@ Testing:
 <img src="Testing.PNG" alt="drawing" width="100%"/>
 
 3D file:
-[Pogo pin probe - STL ](https://github.com/HaldInc/HaldInc.github.io/blob/main/PogoPinProbe2021/PogoPinHolder.stl)  
+[Pogo pin probe - STL ](https://github.com/HaldInc/HaldInc.github.io/tree/main/PogoPinProbe2021/PogoPinHolder.stl)  
 
 
