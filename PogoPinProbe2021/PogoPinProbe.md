@@ -16,3 +16,5 @@ The 3D printed version after mounting the pogo pin and soldering the wire.
 Testing:
 <img src="Testing.PNG" alt="drawing" width="100%"/>
 
+3D file:
+[Pogo pin probe - STL ](https://github.com/HaldInc/HaldInc.github.io/blob/main/PogoPinProbe2021/PogoPinHolder.stl)  
