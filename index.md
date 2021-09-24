@@ -12,7 +12,7 @@ First of all, welcome to my little World on GitHub. This page serves mainly as m
 
    
       
-   
+  
    
 [![](https://i.stack.imgur.com/gVE0j.png) Contact me on LinkedIn](https://www.linkedin.com/in/jacob-hald-b939933)  
 
