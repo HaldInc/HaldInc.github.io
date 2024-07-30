@@ -1,3 +1,5 @@
+[Back to main](https://haldinc.github.io/)
+
 # Pogo pin SMD probe 2021
 
 Yet another fast 3D printed project. For debugging an embedded design I am working on, I needed a very fine and slim probe. As I also had some pogo pins I designed a small holder so I can easily hold this onto the pin I need to test.  
@@ -20,3 +22,4 @@ Testing:
 [Pogo pin probe - STL ](https://github.com/HaldInc/HaldInc.github.io/tree/main/PogoPinProbe2021/PogoPinHolder.stl)  
 
 
+[Back to main](https://haldinc.github.io/)
