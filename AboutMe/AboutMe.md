@@ -2,18 +2,26 @@
 
 ```mermaid
   gantt
-    title Project plan
+    title Project plan OP# 18102052
     dateFormat  YYYY-MM-DD
-    section Shipping
-    Shipping           :a1, 2024-07-01, 15d
-
+    todayMarker on
+    
+    
     section Service
-    Installation       :s1, after a1  , 2d
+    Installation       :crit, s1, 2024-08-27  , 3d
+
+    section HIST
+    Method dev - Part 1      :h1, 2024-09-09, 5d
+    Method dev - Part 2      :h1, 2024-10-07, 5d
 
     section Application
-    Method programming     :m1, 2024-07-12  , 5d
-    Method implementation  :m2, after s1, 10d
+    Adjust transports         :m1, 2024-09-03  , 1d
+    
+    
 ```
+
+Method implementation  :m2, after s1, 4d
+
 
 
 
