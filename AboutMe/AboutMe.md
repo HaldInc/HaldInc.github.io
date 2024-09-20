@@ -1,5 +1,31 @@
 ### About me...
 
+
+```mermaid
+  gantt
+    title Project plan OP# 18101944
+    dateFormat  YYYY-MM-DD
+    todayMarker on
+    
+    
+    section Service
+    Finalize installation       :crit, s1, 2024-10-07  , 5d
+
+    section Application
+    Method programming      :h1, 2024-09-30, 16d
+    Method implementation  :h1, 2024-10-28, 5d
+
+   
+    
+```
+
+
+
+
+
+
+
+
 ```mermaid
   gantt
     title Project plan OP# 18102052
