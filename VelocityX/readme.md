@@ -19,6 +19,10 @@ All good suggestions, mainly from my 9- and 13-year-olds.
 
 We decided to proceed with the 3rd suggestion, but use optical sensors instead of switches, as they will be a non-invasive measurement—and I already had a bag of old H21A1 sensors.
 
+
+ PcC circuit setup. Just some resistors for current limit of the sensors. All the other stuff on the board was for another project. 
+<img src="./IMG-4774_lowRes.jpg" width="300">  <!--  first circut test     -->
+
 <img src="./IMG-4772_lowRes.jpg" width="600">  <!--  Ociliscope first test    -->
 
 We made a quick proof of concept and printed a holder for the two optical sensors with a spacing of 100 mm. This was really a "dirty setup," but that’s how PoCs sometimes are, and it was good enough to show the kids that we could measure it with our "standard household tools."
@@ -39,7 +43,7 @@ The two optical sensors were hooked up to their respective oscilloscope channels
 
 <img src="./IMG-4773_lowRes.jpg" width="600">  <!-- calculator     --> 
 
-<img src="./IMG-4774_lowRes.jpg" width="600">  <!--  first circut test     -->
+
 
 <img src="./IMG-4830_lowRes.jpg" width="600">  <!--  battery pack IRL    -->
 
