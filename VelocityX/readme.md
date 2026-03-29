@@ -4,9 +4,9 @@
 
 ...under construction.....
 
-<img src="./IMG-4772_lowRes.jpg" width="600">
+<!-- Final version  -->
+<img src="./IMG-5146_lowRes.jpg" width="600">
 
-test
 
 <img src="./IMG-4772_lowRes.jpg" width="600">
 
@@ -28,7 +28,6 @@ test
 
 <img src="./IMG-5069_lowRes.jpg" width="600">
 
-<img src="./IMG-5146_lowRes.jpg" width="600">
 
 # Time to start printing:
 
