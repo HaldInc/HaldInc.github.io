@@ -5,8 +5,11 @@
 ...under construction.....
 
 <!-- Final version  -->
-<img src="./IMG-5146_lowRes.jpg" width="600">
+<img src="./BatBox.JPG" width="600">
 
+<img src="./Box 1.JPG" width="600">
+
+<img src="./Fusion1.JPG" width="600">
 
 <img src="./IMG-4772_lowRes.jpg" width="600">
 
@@ -28,6 +31,19 @@
 
 <img src="./IMG-5069_lowRes.jpg" width="600">
 
+<img src="./IMG-5146_lowRes.jpg" width="600">
+
+<img src="./SensorHub.JPG" width="600">
+
+<img src="./SideView.JPG" width="600">
+
+<img src="./SideView_CAD.JPG" width="600">
+
+<img src="./Switch assembly.JPG" width="600">
+
+<img src="./VelocityX_1.PNG" width="600">
+
+<img src="./VelocityX_2.png" width="600">
 
 # Time to start printing:
 
