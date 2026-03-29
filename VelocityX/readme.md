@@ -4,7 +4,6 @@
 
 ...under construction.....
 
-![Description](./IMG-4772_lowRes.jpg)
 
 <img src="./IMG-4772_lowRes.jpg" alt="Description" width="600">
 
