@@ -41,7 +41,6 @@ The two optical sensors were hooked up to their respective oscilloscope channels
 
 
 
-<img src="./IMG-4773_lowRes.jpg" width="600">  <!-- calculator     --> 
 
 
 
