@@ -4,6 +4,7 @@
 
 ...under construction.....
 
+![Description](./assets/IMG-4772_lowRes.jpg)
 
 # Time to start printing:
 
