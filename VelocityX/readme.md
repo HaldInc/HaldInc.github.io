@@ -20,7 +20,7 @@ All good suggestions, mainly from my 9- and 13-year-olds.
 We decided to proceed with the 3rd suggestion, but use optical sensors instead of switches, as they will be a non-invasive measurement—and I already had a bag of old H21A1 sensors.
 
 
- PcC circuit setup. Just some resistors for current limit of the sensors. All the other stuff on the board was for another project. 
+ PcC circuit setup - just some resistors for current limit of the sensors. All the other stuff on the board was for another project. 
 <img src="./IMG-4774_lowRes.jpg" width="300">  <!--  first circut test     -->
 
 <img src="./IMG-4772_lowRes.jpg" width="600">  <!--  Ociliscope first test    -->
