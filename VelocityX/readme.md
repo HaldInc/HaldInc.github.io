@@ -19,6 +19,12 @@ All good suggestions, mainly from my 9- and 13-year-olds.
 
 We decided to proceed with the 3rd suggestion, but use optical sensors instead of switches, as they will be a non-invasive measurement—and I already had a bag of old H21A1 sensors.
 
+<img src="./IMG-4772_lowRes.jpg" width="600">  <!--  Ociliscope first test    -->
+
+We made a quick proof of concept and printed a holder for the two optical sensors with a spacing of 100 mm. This was really a "dirty setup," but that’s how PoCs sometimes are, and it was good enough to show the kids that we could measure it with our "standard household tools."
+
+The two optical sensors were hooked up to their respective oscilloscope channels with rising edge triggering. Even with this simple setup, we could clearly see that the time between the dart passing the first and last sensor was 4.66 ms. As the flight distance is 100 mm, this corresponds to 21.46 m/s. We got our first speed measurement!
+
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------  -->
 
@@ -29,7 +35,7 @@ We decided to proceed with the 3rd suggestion, but use optical sensors instead o
 
 <img src="./Fusion1.JPG" width="600">   <!--  in Fusion     -->
 
-<img src="./IMG-4772_lowRes.jpg" width="600">  <!--  Ociliscope first test    -->
+
 
 <img src="./IMG-4773_lowRes.jpg" width="600">  <!-- calculator     --> 
 
