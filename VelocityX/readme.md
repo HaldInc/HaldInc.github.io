@@ -79,6 +79,26 @@ Even though the sensor is designed for infrared, ambient light could still inter
   <img src="./SensorHub.JPG" height="300">  <!-- Sensors as drawing     -->
 </div>
 
+The design speeds up print time while maintaining a lightweight yet strong structure. I designed the octagonal tube using the sheet metal tool in Fusion and printed it as a thin, foldable structure.
+
+| ![](./SheetMetal.JPG)Sheet metal design | ![](./SideView_CAD.JPG)Render of the tube design |
+|:--:|:--:|
+
+
+<div style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
+  <img src="./SideView_CAD.JPG" height="300"> <!-- Render of sensors and velocity tube  - from Fusion    -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./SheetMetal.JPG" height="300">  <!--  optical sensor    -->
+</div>
+
+
+
+
+<img src="./SideView_CAD.JPG" width="600"> <!-- Render of sensors and velocity tube  - from Fusion    -->
+<img src="./SheetMetal.JPG" height="300">  <!--  optical sensor    -->
+
+
+
 The fully covered channel turned out to have an even bigger benifit:  Making sure that no drats lands inside the unit. 
 
 To improve the signal from the photo transistors I added a hex inverters with Schmitt-Trigger inputs (74HC14). This gave me a clean sharp level transision:
@@ -142,12 +162,10 @@ This turned out to be harder then expected, but I ended up with a design like th
 
 <img src="./IMG-5036_lowRes.jpg" width="600">  <!--  shutter IRL    -->
 
-
+<img src="./SideView.JPG" width="600">  <!-- Render of sensors and velocity tube     --> 
 
 <img src="./IMG-5146_lowRes.jpg" width="600">  <!--  Final IRL    -->
 
-
-<img src="./SideView.JPG" width="600">  <!-- Render of sensors and velocity tube     --> 
 
 <img src="./SideView_CAD.JPG" width="600"> <!-- Render of sensors and velocity tube  - from Fusion    --> 
 
