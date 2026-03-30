@@ -31,14 +31,17 @@ Suggestions: <br>
 
 All good suggestions, mainly from my 9- and 13-year-olds.
 
-We decided to proceed with the 3rd suggestion, but use optical sensors instead of switches, as they will be a non-invasive measurement—and I already had a bag of old H21A1 sensors.
+## Proof of concept:
+
+We decided to proceed with the 3rd suggestion, but use optical sensors instead of switches, as they will be a non-invasive measurement — and I already had a bag of old H21A1 sensors.
 
 
 PcC circuit setup - just some resistors for current limit of the sensors. All the other stuff on the board was for another project. <br>
 
 <div style="display:flex; gap:10px; flex-wrap:wrap; justify-content:center;">
-  <img src="./IMG-4774_lowRes.jpg" width="300">
-  <img src="./IMG-4772_lowRes.jpg" width="600">
+  <img src="./IMG-4774_lowRes.jpg" height="300">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./IMG-4772_lowRes.jpg" height="300">
 </div>
 
 We made a quick proof of concept and printed a holder for the two optical sensors with a spacing of 100 mm. This was really a "dirty setup," but that’s how PoCs sometimes are, and it was good enough to show the kids that we could measure it with our "standard household tools."
@@ -46,11 +49,41 @@ We made a quick proof of concept and printed a holder for the two optical sensor
 The two optical sensors were hooked up to their respective oscilloscope channels with rising edge triggering. Even with this simple setup, we could clearly see that the time between the dart passing the first and last sensor was 4.66 ms. As the flight distance is 100 mm, this corresponds to 21.46 m/s. We got our first speed measurement!
 
 ---
+## Product design:
+
+Now that the PoC worked, we decided to turn this into a real product look and feel. _...naturally not for sale—unless someone wants to buy it :)_ We started with the requirements and the constraints:
+
+### Requirements:
+- Non-invasive measurement
+- High accuricy measurement
+- Show current, minimum, maximum and avrage speed
+- Standalone tool - not need external power or phone or pc connection
+- 3D printed case
+- Some cool looking light
+  
+### Constraints
+- This is a Christmas holiday project with the kids - only limited time.
+- Use only components we have at home; no time to order anything.
+
+---
+
+### The velocity meter unit:
+
+From the PoC, it became clear that the H21A1 phototransistor optical interrupt switch was producing some “noise” and was sensitive to the environment. The H21A1 is designed with a gallium arsenide infrared emitting diode paired with a silicon phototransistor inside a small plastic housing, with only 3 mm between the emitter and the transistor. For our project, I needed a gap of about 25 mm, so I removed the diode and transistor from their original housing and built my own setup.
+
+Even though the sensor is designed for infrared, ambient light could still interfere and affect the signal. To solve this, I covered the transistor in black tape and built a channel-like cover to shield the entire pathway between the first and second sensors. This helped stabilize the signal and made the setup more ridgit.
+
+<div style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
+  <img src="./IMG-4909_lowRes.jpg" height="300">  <!--  optical sensor    -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./SensorHub.JPG" height="300">  <!-- Sensors as drawing     -->
+</div>
+
+The fully covered channel turned out to have an even bigger benifit:  Making sure that no drats lands inside the unit. 
 
 
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------  -->
-
 
 <img src="./BatBox.JPG" width="600">   <!-- render of battery pack  -->
 
@@ -59,13 +92,8 @@ The two optical sensors were hooked up to their respective oscilloscope channels
 <img src="./Fusion1.JPG" width="600">   <!--  in Fusion     -->
 
 
-
-
-
-
 <img src="./IMG-4830_lowRes.jpg" width="600">  <!--  battery pack IRL    -->
 
-<img src="./IMG-4909_lowRes.jpg" width="600">  <!--  optical sensor    -->
 
 <img src="./IMG-4972_lowRes.jpg" width="600">  <!--  switch and leaver IRL    -->
 
@@ -79,7 +107,6 @@ The two optical sensors were hooked up to their respective oscilloscope channels
 
 <img src="./IMG-5146_lowRes.jpg" width="600">  <!--  Final IRL    -->
 
-<img src="./SensorHub.JPG" width="600">  <!-- Sensors as drawing     -->
 
 <img src="./SideView.JPG" width="600">  <!-- Render of sensors and velocity tube     --> 
 
