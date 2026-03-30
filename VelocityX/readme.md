@@ -2,21 +2,27 @@
 
 # VelocityX 2026
 
+<!-- 
 
-<small>*click image to [open video](https://www.youtube.com/watch?v=3CM1_Ji6fJ8)*</small>
+<iframe width="813" height="457" src="https://www.youtube.com/embed/v8qwdybPl3o" title="VelocityX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
-![VelocityX](https://www.youtube.com/watch?v=3CM1_Ji6fJ8)
+https://www.youtube.com/watch?v=v8qwdybPl3o
+
+--->
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=v8qwdybPl3o" target="_blank">
+    <img src="https://img.youtube.com/vi/v8qwdybPl3o/maxresdefault.jpg" width="800" alt="VelocityX">
+  </a>
+</p>
+
+<p align="center">
+  <small><i>Click to check out the video on YouTube</i></small>
+</p>
 
 
-[![](   )](https://youtu.be/dQw4w9WgXcQ)
 
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/v8qwdybPl3o?autoplay=1"
-  title="YouTube video player"
-  frameborder="0"
-  allow="autoplay; encrypted-media"
-  allowfullscreen>
-</iframe>
+
 
 
 <!---
@@ -33,15 +39,16 @@
 One of the kids got a Nerf gun for Christmas. Not one of those that looks like a killer machine, but a unicorn blaster.
 
 This one: (show photo here)
+<img src="./IMG-4978_lowRes.jpg" width="600">  <!--  gun    -->
 
 After a few shots, the question from my kids arose: How fast is it actually shooting?
 
 I quickly asked the kids back, “Good question—how could you find out?”
 
-First suggestion:
-1st suggestion: We can record the sound of firing it into a wall at a known distance and measure the time between the shot and it hitting the wall.
-2nd suggestion: We can record a video of the dart passing by and count the frames.
-3rd suggestion: We can shoot it past two switches and measure the time difference.
+Suggestions: <br>
+- 1st suggestion: We can record the sound of firing it into a wall at a known distance and measure the time between the shot and it hitting the wall. <br>
+- 2nd suggestion: We can record a video of the dart passing by and count the frames. <br>
+- 3rd suggestion: We can shoot it past two switches and measure the time difference. <br>
 
 All good suggestions, mainly from my 9- and 13-year-olds.
 
