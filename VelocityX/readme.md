@@ -2,14 +2,6 @@
 
 # VelocityX 2026
 
-<!-- 
-
-<iframe width="813" height="457" src="https://www.youtube.com/embed/v8qwdybPl3o" title="VelocityX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
-
-https://www.youtube.com/watch?v=v8qwdybPl3o
-
---->
-
 <p align="center">
   <a href="https://www.youtube.com/watch?v=v8qwdybPl3o" target="_blank">
     <img src="https://img.youtube.com/vi/v8qwdybPl3o/maxresdefault.jpg" width="800" alt="VelocityX">
@@ -20,26 +12,13 @@ https://www.youtube.com/watch?v=v8qwdybPl3o
   <small><i>Click to check out the video on YouTube</i></small>
 </p>
 
+---
 
-
-
-
-
-<!---
-<iframe width="813" height="457" 
-   src="https://www.youtube.com/embed/v8qwdybPl3o"
-   title="VelocityX"
-   frameborder="0"
-   allow="autoplay; encrypted-media"
-   referrerpolicy="strict-origin-when-cross-origin"
-   allowfullscreen> 
- </iframe>
---->
 
 One of the kids got a Nerf gun for Christmas. Not one of those that looks like a killer machine, but a unicorn blaster.
 
-This one: (show photo here)
-<img src="./IMG-4978_lowRes.jpg" width="600">  <!--  gun    -->
+This one: <br>
+<img src="./IMG-4987_lowRes.jpg" width="600">  <!--  gun    -->
 
 After a few shots, the question from my kids arose: How fast is it actually shooting?
 
@@ -55,14 +34,19 @@ All good suggestions, mainly from my 9- and 13-year-olds.
 We decided to proceed with the 3rd suggestion, but use optical sensors instead of switches, as they will be a non-invasive measurement—and I already had a bag of old H21A1 sensors.
 
 
- PcC circuit setup - just some resistors for current limit of the sensors. All the other stuff on the board was for another project. 
-<img src="./IMG-4774_lowRes.jpg" width="300">  <!--  first circut test     -->
+PcC circuit setup - just some resistors for current limit of the sensors. All the other stuff on the board was for another project. <br>
 
-<img src="./IMG-4772_lowRes.jpg" width="600">  <!--  Ociliscope first test    -->
+<div style="display:flex; gap:10px; flex-wrap:wrap; justify-content:center;">
+  <img src="./IMG-4774_lowRes.jpg" width="300">
+  <img src="./IMG-4772_lowRes.jpg" width="600">
+</div>
 
 We made a quick proof of concept and printed a holder for the two optical sensors with a spacing of 100 mm. This was really a "dirty setup," but that’s how PoCs sometimes are, and it was good enough to show the kids that we could measure it with our "standard household tools."
 
 The two optical sensors were hooked up to their respective oscilloscope channels with rising edge triggering. Even with this simple setup, we could clearly see that the time between the dart passing the first and last sensor was 4.66 ms. As the flight distance is 100 mm, this corresponds to 21.46 m/s. We got our first speed measurement!
+
+---
+
 
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------  -->
