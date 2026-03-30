@@ -81,22 +81,16 @@ Even though the sensor is designed for infrared, ambient light could still inter
 
 The design speeds up print time while maintaining a lightweight yet strong structure. I designed the octagonal tube using the sheet metal tool in Fusion and printed it as a thin, foldable structure.
 
-| ![](./SheetMetal.JPG)Sheet metal design | ![](./SideView_CAD.JPG)Render of the tube design |
-|:--:|:--:|
-
-
-<div style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
-  <img src="./SideView_CAD.JPG" height="300"> <!-- Render of sensors and velocity tube  - from Fusion    -->
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./SheetMetal.JPG" height="300">  <!--  optical sensor    -->
-</div>
+<p float="middle">
+  <img align="top" src="./SheetMetal.JPG"  width="45%"/>  
+  <img align="top" src="./SideView_CAD.JPG"  width="45%"/>
+</p>
 
 
 
+---
 
-<img src="./SideView_CAD.JPG" width="600"> <!-- Render of sensors and velocity tube  - from Fusion    -->
-<img src="./SheetMetal.JPG" height="300">  <!--  optical sensor    -->
-
+# TEST
 
 
 The fully covered channel turned out to have an even bigger benifit:  Making sure that no drats lands inside the unit. 
