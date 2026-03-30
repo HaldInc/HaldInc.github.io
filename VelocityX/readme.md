@@ -3,7 +3,10 @@
 # VelocityX 2026
 
 
+<small>*click image to [open video](https://www.youtube.com/watch?v=3CM1_Ji6fJ8)*</small>
+
 ![VelocityX](https://www.youtube.com/watch?v=3CM1_Ji6fJ8)
+
 
 [![](   )](https://youtu.be/dQw4w9WgXcQ)
 
