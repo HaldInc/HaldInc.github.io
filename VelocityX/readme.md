@@ -81,21 +81,60 @@ Even though the sensor is designed for infrared, ambient light could still inter
 
 The fully covered channel turned out to have an even bigger benifit:  Making sure that no drats lands inside the unit. 
 
+To improve the signal from the photo transistors I added a hex inverters with Schmitt-Trigger inputs (74HC14). This gave me a clean sharp level transision:
+
+<img src="./IMG-5069_lowRes.jpg" width="600">  <!--  Ociliscope after gates    -->
+
+This signal is perfect for a micro controller.
+
+---
+
+### Battery case:
+
+If you can buy an off-the-shelf battery container, always do that! But if you really want to, print it.
+
+<div style="display:flex; flex-wrap:wrap; justify-content:center;">
+  <img src="./BatBox.JPG" height="300">   <!-- render of battery pack  -->  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./IMG-4830_lowRes.jpg" height="300">  <!--  battery pack IRL    -->
+</div>
+
+
+---
+
+### Power switch and the shutter assembly:
+
+I wanted to have a mechanical power switch directly in serial with the battery pack, so we have zero standby power consumtion. As I would have a mechanical movement to power the unit on and off, I thought it would be cool to also make this cover the messuring pathway up - as a duft protection. *Actually, just to make it look cool.*
+
+This turned out to be harder then expected, but I ended up with a design like this: 
+
+
+| ![ShutterAssembly]("./SwitchAssembly.JPG"){height=500px} | ![In Fusion](./Fusion1.JPG){height=500px} |
+|:--:|:--:|
+
+<div style="display:flex; flex-wrap:nowrap; justify-content:center; align-items:center;">
+  <img src="./SwitchAssembly.JPG" height="500">  <!-- Shutter assembly     -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./Fusion1.JPG" height="500">   <!--  in Fusion     -->
+</div>
+
+
+<img src="./IMG-4972_lowRes.jpg" width="600">  <!--  switch and leaver IRL    -->
 
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------  -->
 
-<img src="./BatBox.JPG" width="600">   <!-- render of battery pack  -->
+
 
 <img src="./Box 1.JPG" width="600">    <!-- Render version of the final     -->
 
-<img src="./Fusion1.JPG" width="600">   <!--  in Fusion     -->
 
 
-<img src="./IMG-4830_lowRes.jpg" width="600">  <!--  battery pack IRL    -->
 
 
-<img src="./IMG-4972_lowRes.jpg" width="600">  <!--  switch and leaver IRL    -->
+
+
+
 
 <img src="./IMG-4988_lowRes.jpg" width="600">  <!--  First light test    -->
 
@@ -103,7 +142,7 @@ The fully covered channel turned out to have an even bigger benifit:  Making sur
 
 <img src="./IMG-5036_lowRes.jpg" width="600">  <!--  shutter IRL    -->
 
-<img src="./IMG-5069_lowRes.jpg" width="600">  <!--  Ociliscope after gates    -->
+
 
 <img src="./IMG-5146_lowRes.jpg" width="600">  <!--  Final IRL    -->
 
@@ -112,11 +151,11 @@ The fully covered channel turned out to have an even bigger benifit:  Making sur
 
 <img src="./SideView_CAD.JPG" width="600"> <!-- Render of sensors and velocity tube  - from Fusion    --> 
 
-<img src="./Switch assembly.JPG" width="600">  <!-- Shutter assembly     -->
 
 <img src="./VelocityX_1.PNG" width="600">  <!-- Final rander     -->
 
-# Time to start printing:
+---
+CAD design is done in Autodesk Fusion. Animations in Blender.
 
 
 
