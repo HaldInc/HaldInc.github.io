@@ -87,10 +87,7 @@ The design speeds up print time while maintaining a lightweight yet strong struc
 </p>
 
 
-
----
-
-# TEST
+### Improving the signal:
 
 
 The fully covered channel turned out to have an even bigger benifit:  Making sure that no drats lands inside the unit. 
