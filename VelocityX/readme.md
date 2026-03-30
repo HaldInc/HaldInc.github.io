@@ -2,16 +2,17 @@
 
 # VelocityX 2026
 
-<!---
+
 <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/VIDEO_ID?autoplay=1"
+  src="https://www.youtube.com/embed/v8qwdybPl3o?autoplay=1"
   title="YouTube video player"
   frameborder="0"
   allow="autoplay; encrypted-media"
   allowfullscreen>
 </iframe>
---->
 
+
+<!---
 <iframe width="813" height="457" 
    src="https://www.youtube.com/embed/v8qwdybPl3o"
    title="VelocityX"
@@ -20,6 +21,7 @@
    referrerpolicy="strict-origin-when-cross-origin"
    allowfullscreen> 
  </iframe>
+--->
 
 One of the kids got a Nerf gun for Christmas. Not one of those that looks like a killer machine, but a unicorn blaster.
 
