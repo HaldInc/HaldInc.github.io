@@ -81,28 +81,28 @@ Even though the sensor is designed for infrared, ambient light could still inter
 
 The design speeds up print time while maintaining a lightweight yet strong structure. I designed the octagonal tube using the sheet metal tool in Fusion and printed it as a thin, foldable structure.
 
+<br>
+<br>
+
 <p float="middle">
   <img align="top" src="./SheetMetal.JPG"  width="45%"/>  
   <img align="top" src="./SideView_CAD.JPG"  width="45%"/>
 </p>
 
+The fully covered channel turned out to have an even big benifit:  Making sure that no drats lands inside the unit itself, but are guide thrugh it.
 
-### Improving the signal:
+### Improving signal quality:
 
-
-The fully covered channel turned out to have an even bigger benifit:  Making sure that no drats lands inside the unit. 
-
-To improve the signal from the photo transistors I added a hex inverters with Schmitt-Trigger inputs (74HC14). This gave me a clean sharp level transision:
+To improve the signal quality from the phototransistors, I added a hex inverter with Schmitt-trigger inputs (74HC14). This gives a clean, sharp level transition that is perfect for the microcontroller:
 
 <img src="./IMG-5069_lowRes.jpg" width="600">  <!--  Ociliscope after gates    -->
 
-This signal is perfect for a micro controller.
 
 ---
 
 ### Battery case:
 
-If you can buy an off-the-shelf battery container, always do that! But if you really want to, print it.
+If you can buy an off-the-shelf battery container, always do that! But if you really want to design it yourself and print it, that is naturally also an option. This is what I needed to do as I couldnt wait to get one delivered and I didint have any at home. 
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center;">
   <img src="./BatBox.JPG" height="300">   <!-- render of battery pack  -->  
@@ -110,6 +110,9 @@ If you can buy an off-the-shelf battery container, always do that! But if you re
   <img src="./IMG-4830_lowRes.jpg" height="300">  <!--  battery pack IRL    -->
 </div>
 
+Again, I ended up overdesigning it a bit :) as I wanted it to 
+
+#TODO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>    Insert photo of the battery lock.
 
 ---
 
