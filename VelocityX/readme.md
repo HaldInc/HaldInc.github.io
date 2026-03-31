@@ -65,6 +65,13 @@ Now that the PoC worked, we decided to turn this into a real product look and fe
 - This is a Christmas holiday project with the kids - only limited time.
 - Use only components we have at home; no time to order anything.
 
+
+
+## The sketch:
+
+<img src="./Sketch.JPG" height="600">
+
+
 ---
 
 ### The velocity meter unit:
@@ -96,6 +103,37 @@ The fully covered channel turned out to have an even big benifit:  Making sure t
 To improve the signal quality from the phototransistors, I added a hex inverter with Schmitt-trigger inputs (74HC14). This gives a clean, sharp level transition that is perfect for the microcontroller:
 
 <img src="./IMG-5069_lowRes.jpg" width="600">  <!--  Ociliscope after gates    -->
+
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------  -->
+---
+
+### Power switch and the shutter assembly:
+
+I wanted to have a mechanical power switch directly in serial with the battery pack, so we have zero standby power consumtion. As I would have a mechanical movement to power the unit on and off, I thought it would be cool to also make this cover the messuring pathway up - as a duft protection. *Actually, just to make it look cool.*
+
+This turned out to be harder then expected, but I ended up with a design like this: 
+
+
+<p float="middle">
+  <img align="top" src="./SwitchAssembly.JPG"  width="50%"/>  
+  <img align="top" src="./Fusion1.JPG"  width="45%"/>
+</p>
+
+
+<div style="display:flex; flex-wrap:wrap; justify-content:center;">
+  <img src="./SwitchAssembly.JPG" height="300">   <!-- render of battery pack  -->  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./Fusion1.JPG" height="300">  <!--  battery pack IRL    -->
+</div>
+
+
+<br>
+<br>
+
+<img src="./IMG-4972_lowRes.jpg" width="600">  <!--  switch and leaver IRL    -->
+
+
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------  -->
 
 
 ---
@@ -142,34 +180,17 @@ This is the final printed version: <br>
 
 ---
 
-### Power switch and the shutter assembly:
-
-I wanted to have a mechanical power switch directly in serial with the battery pack, so we have zero standby power consumtion. As I would have a mechanical movement to power the unit on and off, I thought it would be cool to also make this cover the messuring pathway up - as a duft protection. *Actually, just to make it look cool.*
-
-This turned out to be harder then expected, but I ended up with a design like this: 
-
-
-| ![ShutterAssembly]("./SwitchAssembly.JPG"){height=500px} | ![In Fusion](./Fusion1.JPG){height=500px} |
-|:--:|:--:|
-
-<div style="display:flex; flex-wrap:nowrap; justify-content:center; align-items:center;">
-  <img src="./SwitchAssembly.JPG" height="500">  <!-- Shutter assembly     -->
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./Fusion1.JPG" height="500">   <!--  in Fusion     -->
-</div>
-
-
-<img src="./IMG-4972_lowRes.jpg" width="600">  <!--  switch and leaver IRL    -->
 
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------  -->
 
 
 
-<img src="./Box 1.JPG" width="600">    <!-- Render version of the final     -->
+<img src="./Box1.JPG" width="600">    <!-- Render version of the final     -->
 
 
 
+<img src="./Dimentions.JPG" >    <!--  Dimentions.jpg  -->
 
 
 
