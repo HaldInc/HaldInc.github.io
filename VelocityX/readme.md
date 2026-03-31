@@ -74,7 +74,7 @@ From the PoC, it became clear that the H21A1 phototransistor optical interrupt s
 Even though the sensor is designed for infrared, ambient light could still interfere and affect the signal. To solve this, I covered the transistor in black tape and built a channel-like cover to shield the entire pathway between the first and second sensors. This helped stabilize the signal and made the setup more ridgit.
 
 <div style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
-  <img src="./IMG-4909_lowRes.jpg" height="300">  <!--  optical sensor    -->
+  <img src="./IMG-4909_lowRes.jpg" height="400">  <!--  optical sensor    -->
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./SensorHub.JPG" height="300">  <!-- Sensors as drawing     -->
 </div>
@@ -112,7 +112,7 @@ If you can buy an off-the-shelf battery container, always do that! But if you re
 
 Again, I ended up overengineering the front cover a bit too much :)
 
-The fist iteration had a screw locking the front cover. This design results in a bigger bump on the 
+The first iteration had a screw locking the front cover. This design results in a bigger bump on the inner side that would collide with the moving shutters; therefore, I needed a new solution. I ended up with a solution that is more integrated into the rear panel itself.
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center;">
   <img src="./BatCover_firstVer.jpg" height="300">   <!-- battery cover 1st version  -->  
@@ -122,8 +122,21 @@ The fist iteration had a screw locking the front cover. This design results in a
   <img src="./BatCover_2ndVer.jpg" height="300">  <!--  battery cover 2nd version    --> 
 </div>
 
+Here are some renderings of the final design, featuring a print-in-place rotating disk for locking the panel.
 
-<img src="./BatCover_Final.jpg" height="300">    <!--  battery cover - final version    --> 
+<!--  Renderes view of the rear panel with the battery cover   -->
+<div style="display:flex; flex-wrap:nowrap; justify-content:center;">
+  <img src="./BatCoverRender1.JPG" height="400">  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./BatCoverRender2.JPG" height="400">  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./BatCoverRender3.JPG" height="400">  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./BatCoverSectionView.JPG" height="400"> 
+</div>
+
+This is the final printed version: <br>
+<img src="./BatCover_Final.jpg" height="400">    <!--  battery cover - final version    --> 
 
 
 
