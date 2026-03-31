@@ -110,9 +110,22 @@ If you can buy an off-the-shelf battery container, always do that! But if you re
   <img src="./IMG-4830_lowRes.jpg" height="300">  <!--  battery pack IRL    -->
 </div>
 
-Again, I ended up overdesigning it a bit :) as I wanted it to 
+Again, I ended up overengineering the front cover a bit too much :)
 
-#TODO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>    Insert photo of the battery lock.
+The fist iteration had a screw locking the front cover. This design results in a bigger bump on the 
+
+<div style="display:flex; flex-wrap:wrap; justify-content:center;">
+  <img src="./BatCover_firstVer.jpg" height="300">   <!-- battery cover 1st version  -->  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./BatCover_backSide.jpg" height="300">  <!--  battery cover - back side    -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./BatCover_2ndVer.jpg" height="300">  <!--  battery cover 2nd version    --> 
+</div>
+
+
+<img src="./BatCover_Final.jpg" height="300">    <!--  battery cover - final version    --> 
+
+
 
 ---
 
