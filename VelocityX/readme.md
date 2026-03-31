@@ -120,18 +120,13 @@ This turned out to be harder then expected, but I ended up with a design like th
 </p>
 
 
-<div style="display:flex; flex-wrap:wrap; justify-content:center;">
-  <img src="./SwitchAssembly.JPG" height="300">   <!-- render of battery pack  -->  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./Fusion1.JPG" height="300">  <!--  battery pack IRL    -->
-</div>
-
-
 <br>
 <br>
+Here is the final printed version being installed.
 
 <img src="./IMG-4972_lowRes.jpg" width="600">  <!--  switch and leaver IRL    -->
 
+As a side note, the LCD display is a very old 2 × 20-digit Epson EA-D20025AR module that I salvaged from a fax machine years ago and have reused in several projects since.
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------  -->
 
