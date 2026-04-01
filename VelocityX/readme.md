@@ -176,21 +176,18 @@ This is the final printed version: <br>
 ---
 
 
-
-<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------  -->
-
-
-
-<img src="./Box1.JPG" width="600">    <!-- Render version of the final     -->
-
-
-
-
-
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------  -->
 ## Light effect 
 
+<img src="./Box1.JPG">    <!-- Render version of the final     -->
+
 To enhance the design and avoid just having a plain box, I wanted to add ribs to the sides - *inspired by the M41A Pulse Rifle from Aliens.* This idea quickly evolved into a different shape, and I decided to print them in semi-transparent PLA so we could add light to it.
+
+
+The light effect has two functions:
+- When the unit is powered on, the light rolls from one side to the other.
+- When you shoot a Nerf dart through the velocity meter, the ribs on the sides light up as the dart travels through the unit.
+
 
 This is a rendering of the ribs: <br>
 <img src="./SideView.JPG" width="600">  <!-- Render of sensors and velocity tube     --> 
@@ -211,13 +208,14 @@ Some hot glue to hold it in place...
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------  -->
 ---
+## LCD display
 
+As mentioned before, the LCD display is a very old 2 × 20-character Epson EA-D20025AR module that I salvaged from a fax machine years ago. Yep, it’s old 🙂 but still working.
 
+Here, I used the LCD to show current, minimum, maximum, and average speed. As I only have two lines, the MCU updates the display every 4 seconds, alternating between showing current and average speed, and minimum and maximum speed.
 
-<img src="./IMG-5036_lowRes.jpg" width="600">  <!--  shutter IRL    -->
+<img src="./IMG-5139_lowRes.jpg"  width="500">  <!--  First light test    -->
 
-
-<img src="./SideView_CAD.JPG" width="600"> <!-- Render of sensors and velocity tube  - from Fusion    --> 
 
 ---
 
@@ -227,11 +225,12 @@ The dimentions: <br>
 <img src="./Dimentions.JPG" >    <!--  Dimentions.jpg  -->
 
 Render of the final design: <br>
-<img src="./VelocityX_1.PNG">  <!-- Final rander     -->
+<img src="./Final_Render1.JPG">  <!-- Final rander     -->
 
 The real life working product:  <br>
 <img src="./IMG-5146_lowRes.jpg">  <!--  Final IRL    -->
 
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------  -->
 ---
 CAD design is done in Autodesk Fusion. Animations in Blender.
 
