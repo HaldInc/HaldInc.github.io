@@ -241,6 +241,18 @@ In a video I recorded, I used a dart that was squeezed a bit and had a few marki
 
 <img src="./Final2.JPG">  <!--  Final IRL    -->
 
+
+
+<p align="center">
+  <a href="youtube.com/shorts/n1qRrK9VYlU" target="_blank">
+    <img src="https://img.youtube.com/shorts/n1qRrK9VYlU/maxresdefault.jpg" width="800" alt="VelocityX">
+  </a>
+</p>
+
+<p align="center">
+  <small><i>Click to check out the video on YouTube</i></small>
+</p>
+
 ---
 CAD design is done in Autodesk Fusion. Animations in Blender.
 
