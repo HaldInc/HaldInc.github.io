@@ -185,28 +185,52 @@ This is the final printed version: <br>
 
 
 
-<img src="./Dimentions.JPG" >    <!--  Dimentions.jpg  -->
 
 
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------  -->
+## Light effect 
 
+To enhance the design and avoid just having a plain box, I wanted to add ribs to the sides - *inspired by the M41A Pulse Rifle from Aliens.* This idea quickly evolved into a different shape, and I decided to print them in semi-transparent PLA so we could add light to it.
 
+This is a rendering of the ribs: <br>
+<img src="./SideView.JPG" width="600">  <!-- Render of sensors and velocity tube     --> 
 
+<br>
 
-<img src="./IMG-4988_lowRes.jpg" width="600">  <!--  First light test    -->
+The kids wanted blue light, so that’s what we went with. Unfortunately, I only had blue SMD LEDs, so I needed to solder them under my microscope.
+
+<img src="./LED_2.JPG" width="600">  <!--  light connection    -->
+
+Some hot glue to hold it in place...
 
 <img src="./IMG-5007_lowRes.jpg" width="600">  <!--  light connection    -->
 
+..and heres the first test:
+
+<img src="./IMG-4988_lowRes.jpg" width="600">  <!--  First light test    -->
+
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------  -->
+---
+
+
+
 <img src="./IMG-5036_lowRes.jpg" width="600">  <!--  shutter IRL    -->
-
-<img src="./SideView.JPG" width="600">  <!-- Render of sensors and velocity tube     --> 
-
-<img src="./IMG-5146_lowRes.jpg" width="600">  <!--  Final IRL    -->
 
 
 <img src="./SideView_CAD.JPG" width="600"> <!-- Render of sensors and velocity tube  - from Fusion    --> 
 
+---
 
-<img src="./VelocityX_1.PNG" width="600">  <!-- Final rander     -->
+## Final design
+
+The dimentions: <br>
+<img src="./Dimentions.JPG" >    <!--  Dimentions.jpg  -->
+
+Render of the final design: <br>
+<img src="./VelocityX_1.PNG">  <!-- Final rander     -->
+
+The real life working product:  <br>
+<img src="./IMG-5146_lowRes.jpg">  <!--  Final IRL    -->
 
 ---
 CAD design is done in Autodesk Fusion. Animations in Blender.
