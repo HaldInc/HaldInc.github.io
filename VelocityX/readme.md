@@ -238,6 +238,9 @@ When measuring the speed of a gun, the measurements are very stable, and you can
 It is also clear that the largest impact on the speed is not actually the gun itself, but the dart. When it is old, stepped on a few times, and slightly bent, it reduces the speed significantly. 
 In a video I recorded, I used a dart that was squeezed a bit and had a few markings. This resulted in an average speed reduction from 21.6 m/s to 4.6 m/s.
 
+
+<img src="./Final2.JPG">  <!--  Final IRL    -->
+
 ---
 CAD design is done in Autodesk Fusion. Animations in Blender.
 
