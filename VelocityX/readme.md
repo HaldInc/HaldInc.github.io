@@ -216,7 +216,6 @@ Here, I used the LCD to show current, minimum, maximum, and average speed. As I 
 
 <img src="./IMG-5139_lowRes.jpg"  width="500">  <!--  First light test    -->
 
-
 ---
 
 ## Final design
