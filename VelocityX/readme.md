@@ -223,9 +223,10 @@ In a video I recorded, I used a dart that was squeezed a bit and had a few marki
 
 <img src="./Final2.JPG">
 
+
 <p align="center">
-  <a href="https://youtube.com/shorts/n1qRrK9VYlU" target="_blank">
-    <img src="https://img.youtube.com/shorts/n1qRrK9VYlU/maxresdefault.jpg" width="800" alt="VelocityX">
+  <a href="https://youtu.be/oY3VhfSliHs" target="_blank">
+    <img src="https://img.youtube.com/vi/oY3VhfSliHs/maxresdefault.jpg" width="800" alt="VelocityX">
   </a>
 </p>
 
