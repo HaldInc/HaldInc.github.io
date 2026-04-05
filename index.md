@@ -3,6 +3,7 @@ Welcome to my little World on GitHub. This page serves mainly as my personal pro
         
   Listed projects:
   
+  * [VelocityX - Nerf gun velocity meter](https://haldinc.github.io/VelocityX/)
   * [RS-232 monitor switch](https://haldinc.github.io/RS-232-monitor/)
   * [Filament spool roller](https://haldinc.github.io/Filament%20roller%202021/Filament_roller)
   * [Among Us - 3D printed projects with the kids.](https://haldinc.github.io/AmongUs_2021/AmongUs2021)
