@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <small><i>Click to check out the video on YouTube</i></small>
+  <small><i>Click image to play video</i></small>
 </p>
 
 ---
@@ -231,7 +231,7 @@ In a video I recorded, I used a dart that was squeezed a bit and had a few marki
 </p>
 
 <p align="center">
-  <small><i>Click to check out the video on YouTube</i></small>
+  <small><i>Click image to play video</i></small>
 </p>
 
 ---
