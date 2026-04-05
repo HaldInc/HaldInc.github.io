@@ -236,4 +236,4 @@ In a video I recorded, I used a dart that was squeezed a bit and had a few marki
 
 ---
 
-CAD design is done in Autodesk Fusion. Animations in Blender.
+All CAD is design in Autodesk Fusion. Animations in Blender. All 3D print is done on my FlashForge Creater Pro II.
